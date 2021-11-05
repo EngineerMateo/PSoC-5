@@ -1,4 +1,3 @@
-    # Signal Monitor
     
     Built with:
         PSoC Creator 
