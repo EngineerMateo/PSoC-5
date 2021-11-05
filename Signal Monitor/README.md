@@ -1,3 +1,4 @@
+    Signal monitor using the PSoC 5 ADC, Python and Qt
     
     Built with:
         PSoC Creator 
